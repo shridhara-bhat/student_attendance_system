@@ -53,7 +53,7 @@ A Flutter application scaffold for tracking student attendance. This README expa
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/shridhara-bhat/student_attendance_system
    cd student_attendance_app
    ```
 
